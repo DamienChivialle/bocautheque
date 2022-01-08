@@ -5,6 +5,8 @@ permalink: /
 title: Bocauthèque
 description: Le site de la Bocauthèque
 
+---
+
 # Bocauthèque
 
 Ben c'est un cool projet:
