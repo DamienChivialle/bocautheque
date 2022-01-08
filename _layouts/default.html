@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+{% if page.url == "/" %}
+    <title>{{page.title}}</title>
+{% else %}
+    <title>{{page.title}} - {{site.title}}</title>
+{% endif %}
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="{{page.description}}" />
+<meta property="og:description" content="{{page.description}}" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:site_name" content="{{ site.name }}" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{{page.description}}"/>
+{% if page.imageUrl and page.imageUrl != "" and page.imageUrl != nil %}
+  <meta property="og:image" content="{{page.imageUrl}}"/>
+{% else %}
+  <meta property="og:image" content="{{site.logo}}"/>
+{% endif %}
+<script type="application/ld+json">
+{"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
+<meta name="google-site-verification" content="RhLHJEi3hAsfqwSwE-lzaF1r4TXxF_ss7Ho4z4S-lWA" />
+{% if page.robots and page.robots != "" and page.robots != nil %}
+    <meta name="robots" content="{{page.robots}}"/>
+{% else %}
+      <meta name="robots" content="index, follow">
+{% endif %}
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- favicon -->
+<!-- <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+ -->
+<!-- end favicon -->
+
+<!-- end custom head snippets -->
+
+<!-- google font async-optimized -->
+<link rel="preconnect" href="https://fonts.gstatic.com/" />
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+<link
+    rel="preload"
+    href="https://fonts.googleapis.com/css?family=Abel"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+<noscript>
+    <link
+        href="https://fonts.googleapis.com/css?family=Luckiest Guy"
+        rel="stylesheet"
+        type="text/css"
+    />
+    <link
+        href="https://fonts.googleapis.com/css?family=Abel"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+      
+<!-- end google font async-optimized -->
+
+   <style type="text/css">
+/* Critical CSS */
+/* from https://jonassebastianohlsson.com/criticalpathcssgenerator/ */
+/* Do not edit, everything is from /assets/css/wiki-style.css */
+    
+    </style>
+      
+<noscript><style>
+/* in case no webp support AND no js for webp-modernizr.js... */
+body{background: url('./assets/img/bbackground.png') no-repeat center center fixed !important;} 
+#banner{background-image: url('./assets/img/banners/site.png') !important;}
+</style></noscript>
+
+  </head>
+  <body>
+    <div id="banner"></div>
+    <div class="wrapper">
+        <div id="title-container">
+                <div>
+                    <a href="{{ site.url }}{{ site.baseurl }}" class="over_banner" title="Page d'accueil de {{site.name}}">
+                        <img loading="lazy"   src="{{site.logo}}" alt="{{site.name}} logo">
+                        {% if page.url == "/" %}
+                            <h1 class="site-title"> {{site.title}} </h1>
+                        {% else %}
+                            <h2 class="site-title"> {{site.title}} </h2>
+                        {% endif %}
+                    </a>
+                </div>
+          <h3 class="over_banner">{{site.description}}</h3>
+            </div>
+
+
+<div id="nav-container" style="height:54px !important">
+            <nav id="nav" class="override">
+                <div class="mini-menu">
+                    <a href="/" title="Page d'accueil de {{site.name}}">
+                        <img loading="lazy" src="{{site.logo}}" alt="{{site.name}} logo">
+                    </a>
+                    <span class="site-title">
+                        <a href="/" title="Page d'accueil de {{site.name}}"> {{site.title}} </a>
+                    </span>
+                    <label class="tab-label" for="dropdown-checkbox"></label>
+                </div>
+        <input style="display: none;" type="checkbox" id="dropdown-checkbox">
+        <div class="menu">
+            <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
+            <div class="menu-first-row">
+                <div class="menu-links">
+                    <span>Projet</span>
+                    <span>Contact</span>
+                </div>
+                <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
+            </div>
+            <div class="extended-menu">
+                <div class="dropdown-menu">
+                    <div class="dropdown-block">
+                        <ul>
+                            <li class="dropdown-link">
+                                <a href="/projet" title="Projet">
+                                <span>Projet</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="dropdown-block">
+                        <ul>
+                            <li class="dropdown-link">
+                                <a href="/contact" title="Contact">
+                                <span>Contact</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>  <!-- closing dropdown menu -->
+            </div>   
+        </div>
+    </nav>
+</div>
+
+      <section>
+          
+        {{ content }}
+
+      </section>
+
+    </div>
+
+<div id="meet-bb" class="wtf">
+      <input style="display: none;" type="checkbox" id="bb-checkbox">
+      <h3>Toutes les infos pour <a href="/contact" title="Contact">Nous Rencontrer</a> !</h3>
+      <label for="bb-checkbox" title="Nous rencontrer">
+        <img loading="lazy"   src="{{ site.logo }}" alt="logo de {{site.name}}">
+      </label>
+</div>
+
+
+
+<link
+    rel="preload"
+    href="./assets/css/style.css?v=0"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+/>
+
+<noscript>
+    <link
+        href="./assets/css/style.css?v=0"
+        rel="stylesheet"
+        type="text/css"
+    />
+</noscript>
+
+ <script type="text/javascript">
+ window.onscroll = function() {changeMenu()};
+
+var $nav = document.getElementById("nav");
+var $bb = document.getElementById("meet-bb");
+function changeMenu() {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
+        $nav.classList.add('fixed');
+        $bb.style.display = 'block';
+    } else {
+        $nav.classList.remove('fixed');
+        $bb.style.display = 'none';
+    }
+}
+</script>
+
+
+  </body>
+</html>
