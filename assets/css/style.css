@@ -237,7 +237,6 @@ nav{display:none}
 			margin: 2px auto;
 			border:  2px solid #00f778;
 			border-radius: 10px;
-			background: linear-gradient(340deg, rgb(13 138 126) 0%, rgb(27 20 100) 80%);
 		}
 		.toc-block-entry a {
 			flex-grow: 1;
@@ -296,7 +295,6 @@ nav{display:none}
 	   /* collection list layout */
 	   
 	   .collection-list-entry img { width: 80px; max-width: 80px !important;}
-	   .table-pic {background: linear-gradient(160deg, #1b1a6b54 50%, #00ffff3b);}
 	   
 
 	/* todo remove next time */
@@ -644,45 +642,7 @@ nav.fixed .menu{ justify-content: right; }
 	   moved to _layout
 	   
 	   /* end breadcrumbs */
-	   
-  	/*meet bb*/
-
-	div#meet-bb {
-		position: fixed;
-		bottom: 20px;
-		right: 20px;
-		z-index: 100;
-		display: none;
-	}
-	   
-	.wtf {
-		position: fixed;
-		bottom: 20px;
-		right: 20px;
-		z-index: 100;
-		display: none;
-	}
-	#meet-bb img {
-		cursor: pointer;
-		height: 60px;
-		width: 60px;
-		/*border: 1px solid #ffcc00;
-    		border-radius: 10px;*/
-	;}
-	#meet-bb h3 {
-		display: none;
-		position: relative;
-		bottom: 20px;
-		background-color: #3f414d;
-		border-radius: 5px;
-		padding: 20px;
-	}
-
-	#meet-bb input:checked + h3 {
-		display: inline !important;
-	}
-
-	/*end meet bb*/
+	
 	   
 	   /* idk, let's try some stuff and see if people like it or complain */
 	   h1, h2, .menu a, .site-title a {text-shadow: 2px 2px 1px #ad5522}
