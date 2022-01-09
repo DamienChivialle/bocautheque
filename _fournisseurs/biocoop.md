@@ -1,5 +1,5 @@
 ---
-layout: pageinfo
+layout: infopage
 sortOrder: ""
 updatedAt: "2022-01-09"
 
