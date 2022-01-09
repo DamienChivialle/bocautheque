@@ -11,4 +11,4 @@ breadcrumbs:
 
 # Contact
 
-D. Chivial
+D. Chivialle
