@@ -111,7 +111,7 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
                 <div>
                     <a href="{{ site.url }}{{ site.baseurl }}" class="over_banner" title="Page d'accueil de {{site.name}}">
                         <img loading="lazy"   src="{{site.logo}}" alt="{{site.name}} logo">
-                        {% if page.url == "/" %}
+                        {% if page.url == "{{ site.url }}{{ site.baseurl }}/" %}
                             <h1 class="site-title"> {{site.title}} </h1>
                         {% else %}
                             <h2 class="site-title"> {{site.title}} </h2>
@@ -125,11 +125,11 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
 <div id="nav-container" style="height:54px !important">
             <nav id="nav" class="override">
                 <div class="mini-menu">
-                    <a href="/" title="Page d'accueil de {{site.name}}">
+                    <a href="{{ site.url }}{{ site.baseurl }}/" title="Page d'accueil de {{site.name}}">
                         <img loading="lazy" src="{{site.logo}}" alt="{{site.name}} logo">
                     </a>
                     <span class="site-title">
-                        <a href="/" title="Page d'accueil de {{site.name}}"> {{site.title}} </a>
+                        <a href="{{ site.url }}{{ site.baseurl }}/" title="Page d'accueil de {{site.name}}"> {{site.title}} </a>
                     </span>
                     <label class="tab-label" for="dropdown-checkbox"></label>
                 </div>
@@ -138,10 +138,10 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
             <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
             <div class="menu-first-row">
                 <div class="menu-links">
-                    <a href="/projet">Projet</a>
-                    <a href="/fournisseurs">Fournisseurs</a>
-                    <a href="/cuisine">Matériel</a>
-                    <a href="/contact">Contact</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/projet">Projet</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs">Fournisseurs</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/cuisine">Matériel</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a>
                 </div>
                 <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
             </div>
@@ -151,11 +151,11 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
                         <span class="dropdown-title">Le Lieu</span>
                         <ul>
                             <li class="dropdown-link">
-                                <a href="/terrain" title="Terrain">
+                                <a href="{{ site.url }}{{ site.baseurl }}/terrain" title="Terrain">
                                 <span>Terrain</span></a>
                             </li>
                             <li class="dropdown-link">
-                                <a href="/cuisine" title="Cuisine">
+                                <a href="{{ site.url }}{{ site.baseurl }}/cuisine" title="Cuisine">
                                 <span>Cuisine</span></a>
                             </li>
                         </ul>
@@ -164,7 +164,7 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
                         <span class="dropdown-title">Les Gens</span>
                         <ul>
                             <li class="dropdown-link">
-                                <a href="/fournisseurs" title="Fournisseurs">
+                                <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs" title="Fournisseurs">
                                 <span>Fournisseurs</span></a>
                             </li>
                         </ul>
@@ -173,11 +173,11 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
                         <span class="dropdown-title">Le Projet</span>
                         <ul>
                             <li class="dropdown-link">
-                                <a href="/projet" title="Projet">
+                                <a href="{{ site.url }}{{ site.baseurl }}/projet" title="Projet">
                                 <span>Presentation</span></a>
                             </li>
                             <li class="dropdown-link">
-                                <a href="/contact" title="Contact">
+                                <a href="{{ site.url }}{{ site.baseurl }}/contact" title="Contact">
                                 <span>Contact</span></a>
                             </li>
                         </ul>
@@ -196,16 +196,6 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
 
     </div>
 
-<div id="meet-bb" class="wtf">
-      <input style="display: none;" type="checkbox" id="bb-checkbox">
-      <h3>Toutes les infos pour <a href="/contact" title="Contact">Nous Rencontrer</a> !</h3>
-      <label for="bb-checkbox" title="Nous rencontrer">
-        <img loading="lazy"   src="{{ site.logo }}" alt="logo de {{site.name}}">
-      </label>
-</div>
-
-
-
 <link
     rel="preload"
     href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css?v=0"
@@ -220,22 +210,6 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
         type="text/css"
     />
 </noscript>
-
- <script type="text/javascript">
- window.onscroll = function() {changeMenu()};
-
-var $nav = document.getElementById("nav");
-var $bb = document.getElementById("meet-bb");
-function changeMenu() {
-    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
-        $nav.classList.add('fixed');
-        $bb.style.display = 'block';
-    } else {
-        $nav.classList.remove('fixed');
-        $bb.style.display = 'none';
-    }
-}
-</script>
 
 
   </body>
