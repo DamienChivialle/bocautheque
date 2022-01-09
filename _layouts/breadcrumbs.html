@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<style type="text/css">
+    h1 { margin-bottom: 0px; }
+    ul#breadcrumbs {
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        min-width: 250px;
+        background: none !important;
+        padding: 0px;
+        margin-bottom: 20px;
+
+    }
+    ul#breadcrumbs li {
+        margin: 0px 10px 0px 10px;
+        padding: 0px 10px 0px 0px;
+    }
+    section { margin-top: 0px !important; padding-top: 0px !important; }
+</style>
+
+<ul id="breadcrumbs">
+  <li><a href="/">Bocauthèque</a></li>
+  {% for breadcrumb in page.breadcrumbs %}
+    <li><a href="{{ breadcrumb[1] }}">{{ breadcrumb[0] }}</a></li>
+  {% endfor %}
+</ul>
+
+{{ content }}
