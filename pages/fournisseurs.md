@@ -1,12 +1,10 @@
 ---
 
 layout: breadcrumbs
-permalink: /materials
-title: Bots Materials
-description: The Materials you need to upgrade your Bots in Botworld Adventure - Everything there is to know about it on the Botworld Community Wiki!
+permalink: /fournisseurs
+title: Fournisseurs et Partenaires
+description: Tous les acteurs engagés dans le projet Bocauthèque
 breadcrumbs:
-  Botworld: "/#botworld"
-  Exploring: "/exploring"
   
 ---
 
