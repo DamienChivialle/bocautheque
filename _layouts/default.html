@@ -138,52 +138,13 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
             <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
             <div class="menu-first-row">
                 <div class="menu-links">
-                    <a href="{{ site.url }}{{ site.baseurl }}/projet">Projet</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs">Fournisseurs</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/cuisine">Matériel</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/">Projet</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/cuisine">La Cuisine</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/agenda">Les Rendez-vous</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/chantiers">Les Chantiers Participatifs</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/soutenir">Nous Soutenir</a>
                 </div>
-                <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
-            </div>
-            <div class="extended-menu">
-                <div class="dropdown-menu">
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Le Lieu</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/terrain" title="Terrain">
-                                <span>Terrain</span></a>
-                            </li>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/cuisine" title="Cuisine">
-                                <span>Cuisine</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Les Gens</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs" title="Fournisseurs">
-                                <span>Fournisseurs</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Le Projet</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/projet" title="Projet">
-                                <span>Presentation</span></a>
-                            </li>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/contact" title="Contact">
-                                <span>Contact</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>  <!-- closing dropdown menu -->
-            </div>   
+            </div> 
         </div>
     </nav>
 </div>
@@ -210,6 +171,20 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
         type="text/css"
     />
 </noscript>
+
+
+ <script type="text/javascript">
+ window.onscroll = function() {changeMenu()};
+
+var $nav = document.getElementById("nav");
+function changeMenu() {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
+        $nav.classList.add('fixed');
+    } else {
+        $nav.classList.remove('fixed');
+    }
+}
+</script>
 
 
   </body>
