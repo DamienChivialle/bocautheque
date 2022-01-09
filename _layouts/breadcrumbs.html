@@ -22,9 +22,9 @@ layout: default
 </style>
 
 <ul id="breadcrumbs">
-  <li><a href="/">Bocauthèque</a></li>
+  <li><a href="{{ site.url }}{{ site.baseurl }}/">Bocauthèque</a></li>
   {% for breadcrumb in page.breadcrumbs %}
-    <li><a href="{{ breadcrumb[1] }}">{{ breadcrumb[0] }}</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb[1] }}">{{ breadcrumb[0] }}</a></li>
   {% endfor %}
 </ul>
 
