@@ -6,3 +6,9 @@ logo: https://centime.github.io/bocautheque/assets/img/logo.png
 
 plugins:
   - jekyll-sitemap
+
+
+collections:
+  fournisseurs:
+    output: true
+    permalink: /fournisseurs/:path
