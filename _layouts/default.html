@@ -138,52 +138,13 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
             <div class="mask hide-on-fixed"><span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></div>
             <div class="menu-first-row">
                 <div class="menu-links">
-                    <a href="{{ site.url }}{{ site.baseurl }}/projet">Projet</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs">Fournisseurs</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/cuisine">Matériel</a>
-                    <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/">Projet</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/cuisine">La Cuisine</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/agenda">Les Rendez-vous</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/chantiers">Les Chantiers Participatifs</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}/soutenir">Nous Soutenir</a>
                 </div>
-                <span class="regular-menu-label"><label class="tab-label" for="dropdown-checkbox"></label></span>
-            </div>
-            <div class="extended-menu">
-                <div class="dropdown-menu">
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Le Lieu</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/terrain" title="Terrain">
-                                <span>Terrain</span></a>
-                            </li>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/cuisine" title="Cuisine">
-                                <span>Cuisine</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Les Gens</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/fournisseurs" title="Fournisseurs">
-                                <span>Fournisseurs</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="dropdown-block">
-                        <span class="dropdown-title">Le Projet</span>
-                        <ul>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/projet" title="Projet">
-                                <span>Presentation</span></a>
-                            </li>
-                            <li class="dropdown-link">
-                                <a href="{{ site.url }}{{ site.baseurl }}/contact" title="Contact">
-                                <span>Contact</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>  <!-- closing dropdown menu -->
-            </div>   
+            </div> 
         </div>
     </nav>
 </div>
@@ -210,6 +171,182 @@ body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.pn
         type="text/css"
     />
 </noscript>
+
+
+ <script type="text/javascript">
+ window.onscroll = function() {changeMenu()};
+
+var $nav = document.getElementById("nav");
+function changeMenu() {
+    if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) { //300
+        $nav.classList.add('fixed');
+    } else {
+        $nav.classList.remove('fixed');
+    }
+}
+</script>
+
+      
+
+<div id="bgPicker">
+	<input type="text" placeholder="https://cdn.discordapp.com/attachments/918419557792776202/920287854268129280/BotpediaBackgroundAlt3.png">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#fontPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#fontPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
+<script type="text/javascript">
+	
+var $bgOverload = `
+<style>
+body {
+    background: url(__url__) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+</style>`
+
+function loadBg(){
+	if (window.location.hash.startsWith('#bg')){
+	 document.querySelector('#bgPicker').style.display = 'block';
+	 if (window.location.hash.match(/#bg=./)){
+	 	document.querySelector('#bgPicker div').innerHTML = $bgOverload.replaceAll('__url__', 
+	 		window.location.hash.replace('#bg=','').replaceAll('%20', ' ')
+	 		);
+	 }
+	}
+}
+
+if (window.location.hash.startsWith('#bg')){
+	window.location.hash.onchange = loadBg;
+	document.querySelector('#bgPicker input').addEventListener('input', function(){
+		window.location.hash = '#bg='+document.querySelector('#bgPicker input').value;
+		loadBg();
+	})
+	loadBg();
+}
+</script>	
+<div id="fontPicker">
+	<a href="https://www.w3schools.com/howto/howto_google_fonts.asp" target="_blank">Fonts list</a>
+	<input type="text" placeholder="Font name, ie: Alegreya Sans SC">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#bgPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#bgPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
+<script type="text/javascript">
+	
+var $fontOverload = `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=__name__">
+<style>
+body * {
+  font-family: "__name__" !important;
+}
+</style>`
+
+function loadFont(){
+	if (window.location.hash.startsWith('#font')){
+	 document.querySelector('#fontPicker').style.display = 'block';
+	 if (window.location.hash.match(/#font=./)){
+	 	document.querySelector('#fontPicker div').innerHTML = $fontOverload.replaceAll('__name__', 
+	 		window.location.hash.replace('#font=','').replaceAll('%20', ' ')
+	 		);
+	 }
+	}
+}
+
+if (window.location.hash.startsWith('#font')){
+	window.location.hash.onchange = loadFont;
+	document.querySelector('#fontPicker input').addEventListener('input', function(){
+		window.location.hash = '#font='+document.querySelector('#fontPicker input').value;
+		loadFont();
+	})
+	loadFont();
+}
+</script>
+  
+<div id="bannerPicker">
+	<a href="https://www.botworld.wiki/#https://cdn.discordapp.com/attachments/918419557792776202/920439171171094588/welcome.png">Example</a>
+	<input type="text" placeholder="https://cdn.discordapp.com/attachments/918419557792776202/920287854268129280/BotpediaBackgroundAlt3.png">
+	<div></div>
+</div>
+
+<style type="text/css">
+	#bannerPicker {
+		position: fixed;
+		z-index: 200;
+		bottom: 10px;
+		left: 10px;
+		display: none;
+	}
+	#bannerPicker input {
+		width: 200px;
+		height: 30px;
+		display: block;
+	}
+</style>
+
+<script type="text/javascript">
+	
+var $bannerOverload = `
+<style>
+ {
+    background: url(__url__) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+</style>`
+
+function loadBanner(){
+	if (window.location.hash.startsWith('#banner')){
+	 	document.querySelector('#bannerPicker').style.display = 'block';
+		if (window.location.hash.match(/#banner=./)){
+			document.querySelector('#bannerPicked').src = window.location.hash.replace('#banner=','').replaceAll('%20', ' ');
+		}
+	}
+}
+if (window.location.hash.startsWith('#banner')){
+	document.querySelector('section').innerHTML ='<img id="bannerPicked" src="https://cdn.discordapp.com/attachments/918419557792776202/920439171171094588/welcome.png" style="width:100%">' + document.querySelector('section').innerHTML;
+	window.location.hash.onchange = loadBanner;
+	document.querySelector('#bannerPicker input').addEventListener('input', function(){
+		window.location.hash = '#banner='+document.querySelector('#bannerPicker input').value;
+		loadBanner();
+	})
+	loadBanner();
+}
+
+</script>	
+
+
 
 
   </body>
