@@ -99,8 +99,8 @@
       
 <noscript><style>
 /* in case no webp support AND no js for webp-modernizr.js... */
-body{background: url('./assets/img/bbackground.png') no-repeat center center fixed !important;} 
-#banner{background-image: url('./assets/img/banners/site.png') !important;}
+body{background: url('{{ site.url }}{{ site.baseurl }}/assets/img/bbackground.png') no-repeat center center fixed !important;} 
+#banner{background-image: url('{{ site.url }}{{ site.baseurl }}/assets/img/banners/site.png') !important;}
 </style></noscript>
 
   </head>
@@ -187,14 +187,14 @@ body{background: url('./assets/img/bbackground.png') no-repeat center center fix
 
 <link
     rel="preload"
-    href="./assets/css/style.css?v=0"
+    href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css?v=0"
     as="style"
     onload="this.onload=null;this.rel='stylesheet'"
 />
 
 <noscript>
     <link
-        href="./assets/css/style.css?v=0"
+        href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css?v=0"
         rel="stylesheet"
         type="text/css"
     />
