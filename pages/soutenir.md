@@ -1,7 +1,7 @@
 ---
 
 layout: breadcrumbs
-permalink: /soutentir
+permalink: /soutenir
 title: Nous soutenir
 description: Tout pour nous aider
 breadcrumbs:
