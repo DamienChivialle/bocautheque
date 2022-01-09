@@ -16,7 +16,8 @@ breadcrumbs:
 
 ## Brebis d'écouves
 
+La brebis d’écouves, est une exploitation de brebis laitière, avec transformation fromagère et vente directe, sous le sigle de l’agriculture biologique.
 
-![valeurs biocoop](https://centime.github.io/bocautheque/assets/img/biocoop-pres.png)
+![brebis_d_ecouves_au_champs](https://damienchivialle.github.io/bocautheque/assets/img/couverture-1.jpg)
 
-[biocoopalencon.fr](https://www.biocoopalencon.fr/)
+[brebisdecouves.fr](https://www.brebisdecouves.fr/)
