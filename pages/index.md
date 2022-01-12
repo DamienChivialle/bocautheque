@@ -7,10 +7,6 @@ description: Le site de la Bocauthèque
 
 ---
 
-- de la bonne bouffe
-- des producteurs locaux
-- un chouette terrain
-- une belle cuisine
 
 ## Le Lieu
 
@@ -45,8 +41,6 @@ Pour résumer, cette conserverie permettrait de **dynamiser le tissu bio de ce s
 La conception de ce labo conserverie sera **supervisée par Eric Batissou** ex-second du restaurant le Petit
 Vatel (Alençon). Les modifications sont assez simples, restera le matériel spécifique à financer.
 Pour compléter le carnet de commandes de cette conserverie, l’idée est d’installer un maraîcher sur place.
-
-![carte des partenaires](https://centime.github.io/bocautheque/assets/img/pub_locale.jpg)
 
 
 ## Création d’une parcelle de maraîchage
