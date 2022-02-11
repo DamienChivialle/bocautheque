@@ -14,11 +14,6 @@ Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous
 
 ![plan aerien du terrain](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
 
-ecologie
-valorisation
-citadin
-interractions, felet 
-
 ## Génèse
 
 Jusqu’à aujourd’hui la grange située au lieu-dit [Les Noës à Saint Nicolas-des-Bois (61)](https://www.google.com/maps/place/Les+No%C3%ABs,+61250+Saint-Nicolas-des-Bois/data=!4m2!3m1!1s0x4809e20eb4ca68c7:0xa1bfde62ea680501?sa=X&ved=2ahUKEwjbtbakwaT1AhWHBGMBHYHHDksQ8gF6BAgPEAE) abritait la [Fromagerie
@@ -36,11 +31,6 @@ pâturages mais vendre la grange des Noës avec 2ha autour.
 Dans la grange, **la fromagerie fait 80m2**. Elle est labellisée en labo CE. L’objectif est de la transformer en
 labo conserverie. En effet plusieurs producteurs bio autour pourraient la louer pour **valoriser leurs
 productions et y faire des conserves**: 
-- Brebis d’Ecouves
-- Chèvrerie des Tuileries
-- Volailles de Fontenai
-- Bourrache & Coquelicot
-- ... 
 
 Voir la liste complète de tous les [Fournisseurs et Partenaire](https://centime.github.io/bocautheque/fournisseurs)
 
@@ -76,3 +66,7 @@ privé, d’autres manières de produire, de valoriser et de consommer localemen
 Habitant depuis deux ans dans la friche artistique des Petits Châtelets (Alençon), il connaît bien la
 dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des
 acteurs aux profils différents sur un même lieu.
+
+Contact : damien@labocautheque.fr
+Tel : 0681725563
+Adresse : [Les Noës 61250 Saint Nicolas-des-Bois](https://www.google.com/maps/place/Les+No%C3%ABs,+61250+Saint-Nicolas-des-Bois/data=!4m2!3m1!1s0x4809e20eb4ca68c7:0xa1bfde62ea680501?sa=X&ved=2ahUKEwjbtbakwaT1AhWHBGMBHYHHDksQ8gF6BAgPEAE)
