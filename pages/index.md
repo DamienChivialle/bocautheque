@@ -12,7 +12,7 @@ description: Le site de la Bocauthèque
 
 Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous produisont des fruits & légumes de manière biologique. Dans la grange nous transformons notre production et celles de nos voisins. Venez découvrir notre territoire et expérimenter avec nous e nouvelles formes de productions et d'organisation.
 
-![organisationdu lieu](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
+![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
 
 ## Génèse
 
@@ -23,6 +23,8 @@ historiques de la région. L’objectif est qu’elles le restent.
 Aujourd’hui **la fromagerie déménage et s’installe 1 km plus loin** à la Saussaye, dans un local plus grand. En
 effet Stéphane Coulard a acquis cette ferme en 2018 et s’est agrandi. Aujourd’hui il souhaite garder les
 pâturages mais vendre la grange des Noës avec 2ha autour.
+
+![façade de la grange](https://damienchivialle.github.io/bocautheque/assets/img/les-noes-streetview.png)
 
 ![plan aerien du terrain](https://centime.github.io/bocautheque/assets/img/maraichage3.jpg)
 
