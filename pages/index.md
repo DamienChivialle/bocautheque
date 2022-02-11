@@ -12,7 +12,7 @@ description: Le site de la Bocauthèque
 
 Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous produisont des fruits & légumes de manière biologique. Dans la grange nous transformons notre production et celles de nos voisins. Venez découvrir notre territoire et expérimenter avec nous e nouvelles formes de productions et d'organisation.
 
-![plan aerien du terrain](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
+![organisationdu lieu](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
 
 ## Génèse
 
@@ -39,6 +39,8 @@ deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gasp
 
 Pour résumer, cette conserverie permettrait de **dynamiser le tissu bio de ce secteur**.
 
+![étagère de bocaux](https://damienchivialle.github.io/bocautheque/assets/img/bocaux_fond1.jpg)
+
 La conception de ce labo conserverie sera **supervisée par Eric Batissou** ex-second du restaurant le Petit
 Vatel (Alençon). Les modifications sont assez simples, restera le matériel spécifique à financer.
 Pour compléter le carnet de commandes de cette conserverie, l’idée est d’installer un maraîcher sur place.
@@ -53,6 +55,8 @@ autres sont envisagés. Un bassin de récupération d’eaux de pluie sera réal
 l’irrigation. Le reste sera en culture de plein champs.
 Le maraîcher sur place plantera une partie de sa production spécialement pour la conserverie et vendra le
 reste en circuit court.
+
+![panier de légumes](https://damienchivialle.github.io/bocautheque/assets/img/fond-agriculture4)
 
 ## Le porteur de projet
 
@@ -69,7 +73,9 @@ acteurs aux profils différents sur un même lieu.
 
 
 Contact : damien@labocautheque.fr
+
 Tel : 0681725563
+
 Adresse : [Les Noës 61250 Saint Nicolas-des-Bois](https://www.google.com/maps/place/Les+No%C3%ABs,+61250+Saint-Nicolas-des-Bois/data=!4m2!3m1!1s0x4809e20eb4ca68c7:0xa1bfde62ea680501?sa=X&ved=2ahUKEwjbtbakwaT1AhWHBGMBHYHHDksQ8gF6BAgPEAE)
 
 Site conçu en logiciel libre par Centime ©2022
