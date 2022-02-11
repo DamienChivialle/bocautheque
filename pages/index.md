@@ -8,7 +8,18 @@ description: Le site de la Bocauthèque
 ---
 
 
-## Le Lieu
+## Bienvenue!
+
+Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous produisont des fruits & légumes de manière biologique. Dans la grange nous transformons notre production et celles de nos voisins. Venez découvrir notre territoire et expérimenter avec nous e nouvelles formes de productions et d'organisation.
+
+![plan aerien du terrain](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
+
+ecologie
+valorisation
+citadin
+interractions, felet 
+
+## Génèse
 
 Jusqu’à aujourd’hui la grange située au lieu-dit [Les Noës à Saint Nicolas-des-Bois (61)](https://www.google.com/maps/place/Les+No%C3%ABs,+61250+Saint-Nicolas-des-Bois/data=!4m2!3m1!1s0x4809e20eb4ca68c7:0xa1bfde62ea680501?sa=X&ved=2ahUKEwjbtbakwaT1AhWHBGMBHYHHDksQ8gF6BAgPEAE) abritait la [Fromagerie
 d’Ecouves](https://brebisdecouves.fr/). En 2011 Stéphane Coullard reprit l’exploitation de Gianni Fortunato et y construisit une
