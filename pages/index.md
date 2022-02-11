@@ -56,7 +56,7 @@ l’irrigation. Le reste sera en culture de plein champs.
 Le maraîcher sur place plantera une partie de sa production spécialement pour la conserverie et vendra le
 reste en circuit court.
 
-![panier de légumes](https://damienchivialle.github.io/bocautheque/assets/img/fond-agriculture4)
+![panier de légumes](https://damienchivialle.github.io/bocautheque/assets/img/fond-agriculture4.jpg)
 
 ## Le porteur de projet
 
