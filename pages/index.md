@@ -10,7 +10,7 @@ description: Le site de la Bocauthèque
 
 ## Bienvenue!
 
-Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous produisont des fruits & légumes de manière biologique. Dans la grange nous transformons notre production et celles de nos voisins. Venez découvrir notre territoire et expérimenter avec nous e nouvelles formes de productions et d'organisation.
+Nous nous situons à l'orée de la forêt domaniale d'Ecouves (61). Sur 2hA nous produisont des fruits & légumes de manière biologique. Dans la grange nous transformons notre production et celles de nos voisins. Venez découvrir notre territoire et expérimenter avec nous des nouvelles formes de productions et d'organisation.
 
 ![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/organigramme-bocautheque.png)
 
