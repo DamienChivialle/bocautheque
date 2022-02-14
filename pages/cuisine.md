@@ -32,4 +32,4 @@ autoclave
 certiceuse
 déshydrateur
 
-[Réserver la cuisine](https://www.cuisinealouer.com/reserver/35400/)
+[Réserver la cuisine en cliquant ici](https://www.cuisinealouer.com/reserver/35400/)
