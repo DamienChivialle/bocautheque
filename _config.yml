@@ -1,8 +1,8 @@
 theme: jekyll-theme-midnight
 title: Bocauthèque
 name: Site de la Bocauthèque
-description: Projet de mise en bocaux
-logo: https://centime.github.io/bocautheque/assets/img/logo.png
+description: Cultiver & Transformer
+logo: https://damienchivialle.github.io/bocautheque/assets/img/logo_bocautheque1.png
 
 plugins:
   - jekyll-sitemap
