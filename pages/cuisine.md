@@ -22,6 +22,8 @@ En effet nous avons gardé un espace bar avec notre bibliothèque de bocaux, la 
 
 ## Plan des installations
 
+![plan de la cuisine](https://damienchivialle.github.io/bocautheque/assets/img/plan_cuisine.png)
+
 ## Liste du matériel
 
 piano gaz
