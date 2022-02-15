@@ -11,13 +11,7 @@ breadcrumbs:
 
 # Agenda
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&src=ZGFtaWVuLmNoaXZpYWxsZUBnbWFpbC5jb20&src=OW44aWZtY2o1cWIydTZxaDFiZ3NkajIxNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23b70000&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[lien vers un framagenda](https://framasoft.fr)
-
-
-
-
+<iframe src="https://calendar.google.com/calendar/embed?src=9n8ifmcj5qb2u6qh1bgsdj215k%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Contact : damien@labocautheque.fr
 
