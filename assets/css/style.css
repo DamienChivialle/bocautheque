@@ -98,7 +98,7 @@ nav{display:none}
 	  font-family: "Gochi Hand";
 	}
 	.toc-block-entry *, nav#nav .menu *{
-		font-size: 14px;
+		font-size: 24px;
 		font-weight: 100;
 	}
 /* BWA theme text sections: p, ul */
@@ -502,7 +502,7 @@ nav.fixed .menu{ justify-content: right; }
     padding-bottom: 15px;
     justify-content: left;
     font-family: "Gochi Hand" !important;
-    font-size: 24px !important;
+    font-size: 50px !important;
     font-weight: normal !important;
     text-shadow: 2px 2px 1px #ae8d5b;
 		text-align: left !important;
