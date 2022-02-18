@@ -1,8 +1,8 @@
 theme: jekyll-theme-midnight
-title: La Bocauthèque
+title: cauthèque
 name: Site de la Bocauthèque
 description: Espace test agricole & alimentaire
-logo: 
+logo: logo-labo.png
 
 plugins:
   - jekyll-sitemap
