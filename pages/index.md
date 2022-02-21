@@ -30,8 +30,6 @@ Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alen
 
 Pour résumer, cette conserverie permettrait de **dynamiser le tissu bio de ce secteur**.
 
-![étagère de bocaux](https://damienchivialle.github.io/bocautheque/assets/img/bocaux_fond1.jpg)
-
 La conception de ce labo conserverie a été **supervisée par Eric Batissou** ex-second du restaurant le Petit
 Vatel (Alençon).
 
