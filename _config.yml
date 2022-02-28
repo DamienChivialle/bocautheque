@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 title:
 name: Site de la Bocauthèque
-description: Expérimentations alimentaires & agricoles
+description: Lieu d'expérimentations alimentaires & agricoles
 logo: logo-labo.png
 
 plugins:
