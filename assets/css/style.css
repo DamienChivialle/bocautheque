@@ -248,7 +248,7 @@ nav{display:none}
 
 .wrapper{
           position: relative;
-          /*top: -130px;*/
+          top: 130px;
 }
 h2 {padding-top: 27px;} /* fix anchor links */
  #title-container{ 
