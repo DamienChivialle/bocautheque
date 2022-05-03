@@ -310,7 +310,7 @@ nav.fixed .mini-menu {display: flex;}
 nav.fixed {
 	  position: fixed;
     top: 0;
-    background: #202020;
+    background: black;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -475,10 +475,10 @@ nav.fixed .menu{ justify-content: right; }
   .mask { position: fixed; top: 0; left: 0; background-color: #dec5a6; width: 75%; max-width:400px; height: 70px ;
     padding-top: 10px;
     justify-content: right;}
-  nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex !important; }
-  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none !important; }
+  /*nav #dropdown-checkbox:checked + .menu .mask.hide-on-fixed { display: flex !important; }
+  nav.fixed #dropdown-checkbox:checked + .menu .hide-on-fixed { display: none !important; }*/
 }
-  nav .menu .mask.hide-on-fixed { display: none; }
+/*  nav .menu .mask.hide-on-fixed { display: none; }*/
   /*end media query*/
 
 
