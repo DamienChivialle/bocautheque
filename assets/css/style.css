@@ -232,7 +232,7 @@ nav{display:none}
 	background-image: url('../img/banner.png') ;
   background-repeat:   no-repeat;
   background-position: top center;              
-  height: 400px;
+  height: 250px;
 }
  @media print, screen and (max-width: 480px){
  	#banner {
