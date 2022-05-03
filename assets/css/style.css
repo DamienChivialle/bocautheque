@@ -231,7 +231,8 @@ nav{display:none}
 #banner {
 	background-image: url('../img/banner.png') ;
   background-repeat:   no-repeat;
-  background-position: top center;              
+  background-position: top center;
+  background-color:white;
   height: 250px;
 }
  @media print, screen and (max-width: 480px){
