@@ -358,7 +358,7 @@ nav.fixed {
 
 
 nav.fixed .mini-menu img { position: relative; top:10px; left: 10px; }
-nav.fixed .menu { display: none; position: relative; bottom: 3px; background-color: black;}
+nav.fixed .menu { position: relative; bottom: 3px; background-color: black;}
 
 nav.fixed .menu .regular-menu-label { display: none; }
 nav.fixed .menu{ justify-content: right; }
