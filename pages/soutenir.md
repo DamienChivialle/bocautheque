@@ -18,6 +18,34 @@ breadcrumbs:
 
 Don : liste de matos recherché
 
+On adopte des arbres :
+Arbousier
+Genévrier
+Framboisier
+
+Merci à :
+Cerisier Burlat (marraine Colette)
+Pommier précoce (marraine Christine P.)
+Pommier tardif (marraine Zoé)
+Poirier (marraine Laurence L.)
+Jasmin (marraine Juliette)
+Pêche de vigne (parraine Lo)
+Châtaigner (marrains Louise & Julien)
+Noyer (marraine Marie F.)
+Cormier (marrains Armelle & JM)
+Tilleul (marraine Murielle)
+Cerisier (parrain Hervé)
+Groseillers à maquereau (marraine Nathalie)
+Cerisier japonais (marraine Sandrine)
+Cassis (parrains Katlyne & Christophe)
+Figuier (marraine Eva)
+Vigne (parrains les neveux)
+Néflier (parrains les Costes)
+Cognassier (parrain le parrain Gilles)
+Noisetier (marraine Virginie)
+Chataigner (marraine Patricia)
+et tout ce qui se mange...
+
 Partager : réseau sociaux
 
 Contact : damien@labocautheque.fr
