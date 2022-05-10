@@ -20,4 +20,6 @@ breadcrumbs:
 
 ## Eco-contrsuction
 
-[lien vers twiza](https://twiza.fr)
+![logo twiza](https://damienchivialle.github.io/bocautheque/assets/img/twiza-chantier-participatif-ecoconstruction-orne.png)
+
+[Venez nous aider à aménager la grange](https://fr.twiza.org/)
