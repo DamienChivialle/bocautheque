@@ -9,7 +9,7 @@ breadcrumbs:
 ---
 
 
-# Chantiers participatifs
+# Nous avons deux types de chantiers participatifs :
 
 
 ## Agriculture
