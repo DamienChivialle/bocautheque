@@ -11,18 +11,19 @@ breadcrumbs:
 
 # Soutenez-nous
 
-[Collecte en cours sur :](https://www.zeste.coop/fr)
-
 ![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
+[Participez au financement participatif du matériel pro](https://www.zeste.coop/fr)
 
 
-## Don : liste de matos recherché
+## Appel aux dons en nature
+Nous recherchons du matériel d'occasion :
 
 ## On adopte des arbres :
 Arbousier
 Genévrier
 Framboisier
+
 ** Merci à : **
 Cerisier Burlat (marraine Colette)
 Pommier précoce (marraine Christine P.)
