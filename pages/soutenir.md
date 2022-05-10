@@ -9,7 +9,7 @@ breadcrumbs:
 ---
 
 
-# Soutenez-nous
+# Plusieurs possibilités pour nous soutenir :
 
 ![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
