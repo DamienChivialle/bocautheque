@@ -16,40 +16,23 @@ breadcrumbs:
 [Participez au financement participatif du matériel pro](https://www.zeste.coop/fr)
 
 
-## Appel aux dons en nature
+## Appel aux dons en nature !
 Nous recherchons du matériel d'occasion :
 
-## On adopte des arbres :
-Arbousier
+## On adopte des arbres !
+On recherche des parrains pour : Arbousier
 Genévrier
 Framboisier
-
-** Merci à : **
-Cerisier Burlat (marraine Colette)
-Pommier précoce (marraine Christine P.)
-Pommier tardif (marraine Zoé)
-Poirier (marraine Laurence L.)
-Jasmin (marraine Juliette)
-Pêche de vigne (parraine Lo)
-Châtaigner (marrains Louise & Julien)
-Noyer (marraine Marie F.)
-Cormier (marrains Armelle & JM)
-Tilleul (marraine Murielle)
-Cerisier (parrain Hervé)
-Groseillers à maquereau (marraine Nathalie)
-Cerisier japonais (marraine Sandrine)
-Cassis (parrains Katlyne & Christophe)
-Figuier (marraine Eva)
-Vigne (parrains les neveux)
-Néflier (parrains les Costes)
-Cognassier (parrain le parrain Gilles)
-Noisetier (marraine Virginie)
-Chataigner (marraine Patricia)
 et tout ce qui se mange...
 
-Partager : réseau sociaux
+**Merci à :**
+Colette pour le Cerisier Burlat, Christine P. pour le Pommier précoce, Laurence L. pour le poirier, Zoé pour le Pommier tardif, Juliette pour le Jasmin, Lo pour le Pêcher de vigne, Louise & Julien pour le Châtaigner, Marie F. pour le Noyer, Armelle & JM pour le Cormier, Murielle pour le Tilleul, Hervé pour le Cerisier, Nathalie pour le Groseiller à maquereau, Sandrine pour le Cerisier japonais, Katlyne & Christophe pour le cassissier, Eva pour le Figuier, les neveux pour la vigne, Les Costes pour le Néflier, Gilles pour le Cognassier, Virginie pour le Noisetier, Patricia pour le Chataigner.
 
-Contact : damien@labocautheque.fr
+
+## Faites nous connaître, partagez !
+Vous aimez ? Faites-nous de la pub sur notre page [Facebook](https://www.https://www.facebook.com/labocautheque)
+
+**Contact** : damien@labocautheque.fr
 
 Tel : 0681725563
 
