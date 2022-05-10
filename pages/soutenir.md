@@ -12,18 +12,18 @@ breadcrumbs:
 # Soutenez-nous
 
 [Collecte en cours sur :](https://www.zeste.coop/fr)
+
 ![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
 
 
-Don : liste de matos recherché
+## Don : liste de matos recherché
 
-On adopte des arbres :
+## On adopte des arbres :
 Arbousier
 Genévrier
 Framboisier
-
-Merci à :
+** Merci à : **
 Cerisier Burlat (marraine Colette)
 Pommier précoce (marraine Christine P.)
 Pommier tardif (marraine Zoé)
