@@ -14,7 +14,9 @@ breadcrumbs:
 
 ## Agriculture
 
-[lien vers woof](https://woof.fr)
+![logo wwoof](https://damienchivialle.github.io/bocautheque/assets/img/WWOOF-orne-conserverie.jpg)
+
+[Venez nous aidez aux champs](https://wwoof.fr/fr/)
 
 ## Eco-contrsuction
 
