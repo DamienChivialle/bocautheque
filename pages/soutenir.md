@@ -11,10 +11,10 @@ breadcrumbs:
 
 # Soutenez-nous
 
+[Collecte en cours sur :](https://www.zeste.coop/fr)
+![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
-## Crowdfunding
 
-[lien vers zeste](https://zeste.coop)
 
 Don : liste de matos recherché
 
