@@ -11,7 +11,7 @@ breadcrumbs:
 
 # La Cuisine
 
-Ancienne fromagerie, ce labo cuisine est maintenant dédié à la transformation de notre production maraichère, de celle de nos voisins producteurs et des invendus des magasins Biocoop. Nous testons un peu tous les moyens de conservation : pasteurisation, pasteurisation douce, lacto-fermentatio, déshydratation, fumaison... N'hésitez pas à nous demandez conseils. 
+Ancienne fromagerie, ce labo cuisine est maintenant dédié à la transformation de notre production maraichère, de celle de nos voisins producteurs et des invendus des magasins Biocoop. Nous testons un peu tous les moyens de conservation : pasteurisation, pasteurisation douce, lacto-fermentatio, déshydratation, fumaison... N'hésitez pas à nous demandez quand auront lieu les prochains ateliers. 
 
 [Professionnels, vous pouvez louer la cuisine en cliquant ici](https://www.cuisinealouer.com/reserver/35400/)
 
@@ -31,3 +31,5 @@ certiceuse
 déshydrateur
 
 [Réserver la cuisine en cliquant ici](https://www.cuisinealouer.com/reserver/35400/)
+
+Et si vous voulez une conserverie plus grosse au vous conseille celle toute neuve du Collectif d'Urgence à Courteille : contactez Olivier conserverie@collectif-urgence.com
