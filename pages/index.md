@@ -36,7 +36,7 @@ Pour compléter le carnet de commandes de cette conserverie, l’idée est d’i
 
 ## Création d’une parcelle de maraîchage
 
-La conserverie dispose d’une parcelle de deux hectares autour. Elle est mise en culture par un entrepreneur salarié de la **coopérative Rhizome** (Sées) qui accompagne le projet depuis son origine. Grâce au fond européen Leader, la **Communauté Urbaine d'Alençon** nous mets à disposition 600m2 de serres tunnel. Un bassin de récupération d’eaux de pluie sera réalisé non loin pour faciliter l’irrigation. Le reste sera en culture de plein champs. Le maraîcher sur place plante une partie de sa production spécialement pour la conserverie et vend le reste en circuit court.
+La conserverie dispose d’une parcelle de deux hectares autour. Elle est mise en culture par un entrepreneur salarié de la **coopérative Rhizome** (Essay) qui accompagne le projet depuis son origine. Grâce au fond européen Leader, la **Communauté Urbaine d'Alençon** nous mets à disposition 600m2 de serres tunnel. Un bassin de récupération d’eaux de pluie sera réalisé non loin pour faciliter l’irrigation. Le reste sera en culture de plein champs. Le maraîcher sur place plante une partie de sa production spécialement pour la conserverie et vend le reste en circuit court.
 
 ![panier de légumes](https://damienchivialle.github.io/bocautheque/assets/img/fond-agriculture4.jpg)
 
