@@ -26,23 +26,22 @@ Jusqu’à l'année dernière la grange située au lieu-dit [Les Noës à Saint 
 
 Dans la grange, la fromagerie fait 80m2. Elle est labellisée en labo CE. L’objectif est de la transformer en labo conserverie. En effet plusieurs producteurs bio autour pourraient la louer pour valoriser leurs productions et y faire des conserves : [voir la liste complète de tous nos bio-voisins](https://centime.github.io/bocautheque/fournisseurs). 
 
-Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, vient y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
+Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, viendra y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
 
-Pour résumer, cette conserverie permettrait de **dynamiser le tissu bio de ce secteur**.La conception de ce labo conserverie a été **supervisée par Eric Batissou** ex-second du restaurant le Petit
- Vatel (Alençon).
+Pour résumer, cette conserverie expérimental permettrait de **dynamiser le tissu bio de ce secteur**. La conception du labo sera par **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
 
 Pour compléter le carnet de commandes de cette conserverie, l’idée est d’installer un maraîcher sur place.
 
 
 ## Création d’une parcelle de maraîchage
 
-La conserverie dispose d’une parcelle de deux hectares autour. Elle est mise en culture par un entrepreneur salarié de la **coopérative Rhizome** (Essay) qui accompagne le projet depuis son origine. Grâce au fond européen Leader, la **Communauté Urbaine d'Alençon** nous mets à disposition 600m2 de serres tunnel. Un bassin de récupération d’eaux de pluie sera réalisé non loin pour faciliter l’irrigation. Le reste sera en culture de plein champs. Le maraîcher sur place plante une partie de sa production spécialement pour la conserverie et vend le reste en circuit court.
+La conserverie dispose d’une parcelle de deux hectares autour. Elle sera mise en culture par un entrepreneur salarié de la **coopérative Rhizome** (Essay) qui accompagne le projet depuis son origine. Grâce au fond européen Leader, la **Communauté Urbaine d'Alençon** nous met à disposition 600m2 de serres tunnel. Un bassin de récupération d’eaux de pluie sera réalisé non loin pour faciliter l’irrigation. Le reste sera en culture de plein champs. Le maraîcher sur place plantera une partie de sa production spécialement pour la conserverie et vendra le reste en circuit court.
 
 ![panier de légumes](https://damienchivialle.github.io/bocautheque/assets/img/fond-agriculture4.jpg)
 
 ## Le porteur de projet
 
-La reprise de cette fromagerie s'est fait à titre privé par **Damien Chivialle**. Né au Mans, Damien Chivialle est gérant des deux magasins Biocoop d’Alençon et de celui de Mortagne-au-Perche. Impliqué depuis 2015 sur le territoire ornais, il connait bien les producteurs bio locaux. Entrepreneur et fier de sa région, il souhaite continuer à dynamiser le secteur bio en expérimentant, à titre privé, d’autres manières de produire, de valoriser et de consommer localement. Habitant depuis deux ans dans la friche artistique des Petits Châtelets (Alençon), il connaît bien la dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des acteurs aux profils différents sur un même lieu.
+La reprise de cette fromagerie s'est fait à titre privé par **Damien Chivialle**. Né au Mans, Damien Chivialle est gérant des deux magasins Biocoop d’Alençon et de celui de Mortagne-au-Perche. Impliqué depuis 2015 sur le territoire ornais, il connait bien les producteurs bio locaux. Entrepreneur et fier de sa région, il souhaite continuer à dynamiser le secteur bio en expérimentant d’autres manières de produire, de valoriser et de consommer localement. Habitant depuis deux ans dans la friche artistique des Petits Châtelets (Alençon), il connaît bien la dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des acteurs aux profils différents sur un même lieu.
 
 
 Contact : damien@labocautheque.fr
