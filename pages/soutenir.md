@@ -13,6 +13,7 @@ breadcrumbs:
 
 
 [Participez au financement participatif du matériel pro en cliquant ici](https://www.zeste.coop/fr)
+
 ![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
 
