@@ -9,11 +9,12 @@ breadcrumbs:
 ---
 
 
-# Ce qui s'y passe :
+# Nos prochains rendez-vous :
 
 <iframe src="https://calendar.google.com/calendar/embed?src=9n8ifmcj5qb2u6qh1bgsdj215k%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="750" height="750" frameborder="0" scrolling="no"></iframe>
 
-Contact : damien@labocautheque.fr
+
+Si vous voulez avoir plus d'informations sur certaines dates, contactez damien@labocautheque.fr
 
 Tel : 0681725563
 
