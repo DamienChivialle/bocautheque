@@ -19,7 +19,7 @@ breadcrumbs:
 
 ## Appel aux dons en nature !
 Nous recherchons du matériel d'occasion :
-Machine à laver le linge, plan de travail en inox, vaisselle, électroménager...
+Machine à laver le linge, plan de travail en inox, vaisselle, électroménager, table chaise, lave-linge...
 
 ## On adopte des arbres !
 On recherche des parrains pour : 
