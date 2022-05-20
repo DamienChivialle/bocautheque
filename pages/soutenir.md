@@ -25,7 +25,7 @@ Machine à laver le linge, plan de travail en inox, vaisselle, électroménager,
 
 ## On adopte des arbres !
 On recherche des parrains pour : 
-Arbousier, Genévrier, Framboisier et tout ce qui se mange...
+Arbousier, Genévrier, Framboisier, thym, romarin, origan, bref tout ce qui se mange...
 
 **Merci à :**
 Colette pour le Cerisier Burlat, Christine P. pour le Pommier précoce, Laurence L. pour le poirier, Zoé pour le Pommier tardif, Juliette pour le Jasmin, Lo pour le Pêcher de vigne, Louise & Julien pour le Châtaigner, Marie F. pour le Noyer, Armelle & JM pour le Cormier, Murielle pour le Tilleul, Hervé pour le Cerisier, Nathalie pour le Groseiller à maquereau, Sandrine pour le Cerisier japonais, Katlyne & Christophe pour le cassissier, Eva pour le Figuier, les neveux pour la vigne, Les Costes pour le Néflier, Gilles pour le Cognassier, Virginie pour le Noisetier, Patricia pour le Chataigner.
