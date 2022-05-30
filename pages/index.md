@@ -28,7 +28,7 @@ Dans la grange, la fromagerie fait 80m2. Elle est labellisée en labo CE. L’ob
 
 Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, viendra y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus de place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
 
-L'objectif de cette conserverie expérimentale est de **dynamiser le tissu bio de ce secteur**. En effet il faut trouver des solutions pour valoriser au mieux les productions bio existantes. Il faut créer des nouveaux produits afin que la bio se développe. Pour se professionnaliser, la conception du labo sera par **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
+L'objectif de cette conserverie expérimentale est de **dynamiser le tissu bio de ce secteur**. En effet il faut trouver des solutions pour valoriser au mieux les productions bio existantes et créer des nouveaux produits afin que la bio se développe. Pour se professionnaliser, la conception du labo sera par **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
 
 Afin de compléter le carnet de commandes de cette conserverie, l’idée est d’installer un maraîcher sur place.
 
@@ -41,7 +41,7 @@ La conserverie dispose d’une parcelle de deux hectares autour. Elle sera mise 
 
 ## Le porteur de projet
 
-La reprise de cette fromagerie s'est fait à titre privé et sans objectif économique par **Damien Chivialle**. Né au Mans, il est le gérant des deux magasins Biocoop d’Alençon et de celui de Mortagne-au-Perche. Impliqué depuis 2015 sur le territoire ornais, il connait bien les producteurs bio locaux. Entrepreneur et fier de sa région, il souhaite continuer à dynamiser le secteur bio en expérimentant d’autres manières de produire, de valoriser et de consommer localement. Habitant depuis trois ans dans la friche artistique des Petits Châtelets (Alençon), il connaît bien la dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des acteurs aux profils différents sur un même lieu.
+La reprise de cette fromagerie s'est fait à titre privé et sans objectif économique par **Damien Chivialle**. Né au Mans, il est le gérant des deux magasins Biocoop d’Alençon et de celui de Mortagne-au-Perche. Impliqué depuis 2015 sur le territoire ornais, il connait bien les producteurs bio locaux. Entrepreneur et fier de sa région, il souhaite continuer à dynamiser le secteur bio en expérimentant d’autres manières de produire, de valoriser et de consommer localement. Habitant depuis trois ans dans la friche artistique des Petits Châtelets (Alençon), il aime la dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des acteurs aux profils différents sur un même lieu.
 
 
 Contact : damien@labocautheque.fr
