@@ -28,7 +28,7 @@ Dans la grange, la fromagerie fait 80m2. Elle est labellisée en labo CE. L’ob
 
 Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, viendra y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus de place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
 
-L'objectif de cette conserverie expérimentale est de **dynamiser le tissu bio de ce secteur**. En effet il faut trouver des solutions pour valoriser au mieux les productions bio existantes et créer des nouveaux produits afin que la bio se développe. Pour se professionnaliser, la conception du labo sera par **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
+L'objectif de cette conserverie expérimentale est de **dynamiser le tissu bio de ce secteur**. En effet il faut trouver des solutions pour valoriser au mieux les productions bio existantes et créer des nouveaux produits afin que la bio se développe. Pour se professionnaliser, la conception du labo sera **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
 
 Afin de compléter le carnet de commandes de cette conserverie, l’idée est d’installer un maraîcher sur place.
 
