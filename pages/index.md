@@ -26,7 +26,7 @@ Jusqu’à l'année dernière la grange située au lieu-dit [Les Noës à Saint 
 
 Dans la grange, la fromagerie fait 80m2. Elle est labellisée en labo CE. L’objectif est de la transformer en labo conserverie. En effet plusieurs producteurs bio autour pourraient la louer pour valoriser leurs productions et y faire des conserves : [voir la liste complète de tous nos bio-voisins](https://centime.github.io/bocautheque/fournisseurs). 
 
-Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, viendra y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
+Par exemple, le **Bio en Herbe**, restaurant associatif du centre-ville d’Alençon, viendra y préparer une partie de ses plats ainsi que ses prestations de traiteur, leur cuisine rue aux Sieurs étant trop petite. Ayant plus de place pour cuisiner cette association pourrait accepter les invendus des deux magasins Biocoop d’Alençon qui leur en feraient don pour éviter le gaspillage alimentaire.
 
 L'objectif de cette conserverie expérimentale est de **dynamiser le tissu bio de ce secteur**. En effet il faut trouver des solutions pour valoriser au mieux les productions bio existantes. Il faut créer des nouveaux produits afin que la bio se développe. Pour se professionnaliser, la conception du labo sera par **supervisée par Eric Batissou** ex-second du restaurant le Petit Vatel (Alençon).
 
