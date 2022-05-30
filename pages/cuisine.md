@@ -11,7 +11,7 @@ breadcrumbs:
 
 # La Cuisine
 
-Ancienne fromagerie, le labo cuisine est maintenant dédié à la transformation de notre production maraichère, de celle de nos voisins producteurs et des invendus des magasins Biocoop. Nous testons tous les moyens de conservation : pasteurisation, pasteurisation douce, lacto-fermentatio, déshydratation, fumaison... N'hésitez pas à nous demander quand auront lieu les prochains ateliers. 
+Ancienne fromagerie, le labo cuisine est maintenant dédié à la transformation de notre production maraichère, de celle de nos voisins producteurs et des invendus des magasins Biocoop. Nous testons tous les moyens de conservation : pasteurisation, pasteurisation douce, lacto-fermentation, déshydratation, fumaison... N'hésitez pas à nous demander quand auront lieu les prochains ateliers. 
 
 [Professionnels, vous pouvez louer la cuisine en cliquant ici](https://www.cuisinealouer.com/reserver/35400/)
 
