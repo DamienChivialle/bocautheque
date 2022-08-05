@@ -14,9 +14,9 @@ breadcrumbs:
 
 .
 
-[Participez au financement participatif du matériel pro en cliquant ici (annonce bientôt en ligne)](https://www.zeste.coop/fr)
+[Participez au financement participatif du matériel pro en cliquant ici !](https://www.zeste.coop/fr) (annonce bientôt en ligne)
 
-![organisation du lieu](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
+![crowdfunding](https://damienchivialle.github.io/bocautheque/assets/img/zeste_crowdfunding_bio.png)
 
 
 ## Appel aux dons en nature !
