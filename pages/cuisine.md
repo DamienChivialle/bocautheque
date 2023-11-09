@@ -20,7 +20,7 @@ Si vous avez aimé le lieu, vous pouvez nous laisser un bocal de votre productio
 
 ## Plan des installations
 
-![plan de la cuisine](https://damienchivialle.github.io/bocautheque/assets/img/plan_cuisine.PNG)
+![plan de la cuisine](https://damienchivialle.github.io/bocautheque/assets/img/plan.PNG)
 
 ## Liste du matériel
 
