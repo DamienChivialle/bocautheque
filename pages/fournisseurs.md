@@ -12,7 +12,7 @@ breadcrumbs:
 # Fournisseurs et Partenaires
 
 
-Ils sont gentils et tous du coin
+Ils sont gentils et tous du coin (en construction)
 
 
 <table class="collection-list">
