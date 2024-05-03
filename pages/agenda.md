@@ -23,4 +23,5 @@ Adresse : [Les Noës 61250 Saint Nicolas-des-Bois](https://www.google.com/maps/p
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flabocautheque&tabs=timeline&width=750&height=750&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-https://www.facebook.com/labocautheque
+Adresse : [Visiter notre page Facebook](https://www.facebook.com/labocautheque/)
+
