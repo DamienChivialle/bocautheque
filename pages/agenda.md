@@ -16,6 +16,7 @@ breadcrumbs:
 La cueillette de petits-fruits à la ferme sera ouverte en avril 2025 (fraises, framboises, myrtilles), patience!
 
 Si vous voulez avoir plus d'informations sur certaines dates, contactez damien@labocautheque.fr
+La cueillette de petits-fruits à la ferme sera ouverte en avril 2025 (fraises, framboises, myrtilles), patience!
 
 Tel : 0681725563
 
