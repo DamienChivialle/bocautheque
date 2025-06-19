@@ -34,7 +34,7 @@ Colette pour le Cerisier Burlat, Christine P. pour le Pommier précoce, Laurence
 ## Faites-nous connaître, partagez !
 Vous aimez ? Faites-nous de la pub sur notre page [Facebook](https://www.facebook.com/labocautheque)
 
-**Contact** : damien@labocautheque.fr
+**Contact** : Damien
 
 Tel : 0681725563
 
