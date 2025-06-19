@@ -44,7 +44,7 @@ La conserverie dispose d’une parcelle de deux hectares autour. Elle sera mise 
 La reprise de cette fromagerie s'est fait à titre privé et sans objectif économique par **Damien Chivialle**, titulaire d'un BAC agricole. Né au Mans, il est le gérant des deux magasins Biocoop d’Alençon et de celui de Mortagne-au-Perche. Impliqué depuis 2015 sur le territoire ornais, il connait bien les producteurs bio locaux. Entrepreneur et fier de sa région, il souhaite continuer à dynamiser le secteur bio en expérimentant d’autres manières de produire, de valoriser et de consommer localement. Habitant depuis six ans dans la friche artistique des Petits Châtelets (Alençon), il aime la dynamique des lieux partagés. Son expérience d'habitat collectif sera importante pour faire cohabiter des acteurs aux profils différents sur un même lieu.
 
 
-Contact : damien@labocautheque.fr
+Contact : Damien
 
 Tel : 0681725563
 
