@@ -8,6 +8,8 @@ description: Le site de la Bocauthèque
 ---
 
 
+Site en attente d'autorisation de la CUA
+
 ## Bienvenue
 
 Nous sommes situés en lisière de la forêt domaniale d'Ecouves (61). Sur 2ha nous cultivons des légumes et des fruits de manière biologique. Dans la grange nous transformons notre production et celle de nos voisins. Venez découvrir notre territoire et expérimenter avec nous des nouvelles formes de productions,  d'organisation, d'échanges...
